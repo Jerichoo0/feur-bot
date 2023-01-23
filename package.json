@@ -1,0 +1,17 @@
+{
+  "name": "feur-bot",
+  "version": "1.0.0",
+  "description": "a bot that responds \"feur\" to any \"quoi\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "fun", "discord"
+  ],
+  "author": "Jerichoo0",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
