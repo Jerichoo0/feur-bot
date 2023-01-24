@@ -203,4 +203,4 @@ client.on("messageCreate", message => {             //évènement déclenché lo
 
 
 
-client.login("MTA2NjcxOTc0ODc4OTg5NTIzOA.G3CGpS._UzXS4nSqLRlBkEDCr4w_IxMLrHVNLNuCdDAEU")      //Put your discord bot token between the ""
+client.login("YOUR TOKEN")      //Put your discord bot token between the ""
